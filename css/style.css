@@ -7,6 +7,11 @@ body, html {
   text-align: center;
 }
 
+body {
+  background-image: url("../images/white-wood.jpg");
+  background-size: cover;
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
@@ -26,7 +31,6 @@ h4 {
   border: 1px solid #22aa44;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
-
 }
 
 .indifferent {
@@ -54,3 +58,5 @@ h4 {
 .large {
   width: 303%;
 }
+
+
